@@ -1,9 +1,16 @@
 # irda
-Persian Data Set Link
-This is a Repository For Persian DataSet ...
-#irda (fa):
-مخرنی برای جمع آوری دیتاست های ایرانی به منظور کار های تحقیقاتی و...
 
-#کمک به ما 
-برای کمک به ما می توانید لینک دیتا ست خودتون یا هر دیتاست فارسی دیگیری را که می شناسید برای ما ارسال کنید 
+Persian Data Set 
+
+This is a Repository For Persian DataSet ... 
+
+
+# To do
+- [ ] Create Category For every Dataset
+- [ ] Create github page For project
+- [ ] First Ten persian Dataset insert into 
+
+
+# irda (fa):
+مخرنی برای جمع آوری دیتاست های ایرانی به منظور کار های تحقیقاتی و ...
 
